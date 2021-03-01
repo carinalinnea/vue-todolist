@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": "1",
+      "text": "Läkarbesök",
+      "day": "19/3 kl 14.30",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Simma",
+      "day": "27/4 kl 16.30",
+      "reminder": false
+    },
+    {
+      "id": "3",
+      "text": "Tjejkväll",
+      "day": "13/5 kl 19.30",
+      "reminder": false
+    },
+    {
+      "text": "Stickcafe",
+      "day": "22/4 kl 14.00",
+      "reminder": true,
+      "id": "141bY-J"
+    }
+  ]
+}
