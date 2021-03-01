@@ -1,9 +1,8 @@
 <template>
   <div class="container">
+    <!-- detta kommer att visas på alla sidor likadant -->
 
     <Header @toggle-add-todo="toggleAddTodo" title="Todo list" :showAddTodo="showAddTodo"/>
-
-    
 
     <router-view :showAddTodo="showAddTodo"></router-view>
 
